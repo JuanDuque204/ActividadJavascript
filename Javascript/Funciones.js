@@ -22,6 +22,7 @@ const alturaCilindro = 8;
 let areaCuadrado = calcularAreaCuadrado(ladoCuadrado);
 let volumenCilindro = calcularVolumenCilindro(radioCilindro, alturaCilindro);
 
+console.log(saludar());
 
 console.log("El área del cuadrado es: " + areaCuadrado);
 console.log("El volumen del cilindro es: " + volumenCilindro);
